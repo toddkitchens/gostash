@@ -5,7 +5,7 @@ import "fmt"
 var y = 42
 var a = `James said, "shaken
 not
-		stirred"`
+		stirred."`
 
 func main() {
 	fmt.Println(y)
